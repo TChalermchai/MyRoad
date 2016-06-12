@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">My Rode</string>
+    <string name="app_name">MyRode</string>
+
+        <string name="tetle_main">ป้ายจราจร</string>
+
 </resources>
